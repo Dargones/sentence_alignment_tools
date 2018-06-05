@@ -39,31 +39,22 @@ YUENDUMU , Australia --
 YUENDUMU , Australia -- 
 YUENDUMU , Australia -- 
 Processing slug... Braille-startup 0.47% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> 
-SANTA CLARA , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> 
-SANTA CLARA , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> 
-SANTA CLARA , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> 
-SANTA CLARA , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> 
-SANTA CLARA , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> SANTA CLARA , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> SANTA CLARA , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> SANTA CLARA , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> SANTA CLARA , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_CPT-TEEN-ENTREPRENEUR-ADV04_4_SJ.jpg"Ê/> SANTA CLARA , Calif. -- 
 Processing slug... Civilrights-comicbook 0.523% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_LEWIS-COMICBOOK_WA.png"Ê/> WASHINGTON -- 
 Processing slug... D-day-fallen 0.575% of the task completed
-COLLEVILLE-S
-COLLEVILLE-S
-COLLEVILLE-S
-COLLEVILLE-S
-COLLEVILLE-S
+COLLEVILLE-SUR-MER , France -- 
+COLLEVILLE-SUR-MER , France -- 
+COLLEVILLE-SUR-MER , France -- 
+COLLEVILLE-SUR-MER , France -- 
+COLLEVILLE-SUR-MER , France -- 
 Processing slug... Detroit-bankruptcy 0.627% of the task completed
 DETROIT -- 
 DETROIT -- 
@@ -220,24 +211,23 @@ BEVERLY HILLS , Calif. --
 BEVERLY HILLS , Calif. -- 
 BEVERLY HILLS , Calif. -- 
 Processing slug... afghan-park 2.373% of the task completed
-BAND-E
-BAND-E
-BAND-E
-BAND-E
-BAND-E
+BAND-E AMIR NATIONAL PARK , Afghanistan -- 
+BAND-E AMIR NATIONAL PARK , Afghanistan -- 
+BAND-E AMIR NATIONAL PARK , Afghanistan -- 
+BAND-E AMIR NATIONAL PARK , Afghanistan -- 
+BAND-E AMIR NATIONAL PARK , Afghanistan -- 
 Processing slug... afghan-scouts 2.426% of the task completed
-KABUL , Afghanistan _ Mohammad Aziz Ayob adjusts his Boy Scout scarf , leans over and settles a sapling into the dry Kabul soil as two NATO helicopters pass overhead , the clack-c
 KABUL , Afghanistan -- 
 KABUL , Afghanistan -- 
 KABUL , Afghanistan -- 
 KABUL , Afghanistan -- 
 KABUL , Afghanistan -- 
 Processing slug... afghan-taxidriver 2.488% of the task completed
-MAZAR-I
-MAZAR-I
-MAZAR-I
-MAZAR-I
-MAZAR-I
+MAZAR-I-SHARIF , Afghanistan -- 
+MAZAR-I-SHARIF , Afghanistan -- 
+MAZAR-I-SHARIF , Afghanistan -- 
+MAZAR-I-SHARIF , Afghanistan -- 
+MAZAR-I-SHARIF , Afghanistan -- 
 Processing slug... afghan-women 2.541% of the task completed
 KABUL , Afghanistan -- 
 KABUL , Afghanistan -- 
@@ -318,11 +308,6 @@ OROSI , Calif. --
 OROSI , Calif. -- 
 OROSI , Calif. -- 
 Processing slug... ag-education 3.272% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... age-population 3.325% of the task completed
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/UN_AGING_2050_Edit.jpg"Ê/> 
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/UN_AGING_2050_Edit.jpg"Ê/> 
@@ -470,16 +455,11 @@ WASHINGTON --
 Processing slug... amusement-injuries 4.903% of the task completed
 Processing slug... ancient-astronomy 4.956% of the task completed
 Processing slug... angelou-obit 5.008% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> 
-CHARLOTTE , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> 
-CHARLOTTE , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> 
-CHARLOTTE , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> 
-CHARLOTTE , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> 
-CHARLOTTE , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> CHARLOTTE , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> CHARLOTTE , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> CHARLOTTE , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> CHARLOTTE , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140528_Maya_ANGELOU.jpg"Ê/> CHARLOTTE , N.C. -- 
 Processing slug... angrybirds-spying 5.06% of the task completed
 LONDON -- 
 LONDON -- 
@@ -543,7 +523,7 @@ EXCELSIOR , Minn. --
 EXCELSIOR , Minn. -- 
 EXCELSIOR , Minn. -- 
 Processing slug... apple-iphone 5.792% of the task completed
-CUPERTINO , Calif. -L
+CUPERTINO , Calif. -LRB- AP -RRB- -- 
 Processing slug... apple-itunes 5.844% of the task completed
 Processing slug... apple-settlement 5.896% of the task completed
 WASHINGTON -- 
@@ -673,11 +653,6 @@ ALAMOGORDO , N.M. --
 ALAMOGORDO , N.M. -- 
 ALAMOGORDO , N.M. -- 
 Processing slug... athletes-mentalhealth 7.287% of the task completed
-NEW YORK - 
-NEW YORK - 
-NEW YORK - 
-NEW YORK - 
-NEW YORK - 
 Processing slug... athletes-yips 7.339% of the task completed
 Processing slug... atlanta-teachers 7.392% of the task completed
 ATLANTA -- 
@@ -701,9 +676,6 @@ LOS ANGELES --
 Processing slug... autism-chairbiz 7.601% of the task completed
 KANSAS CITY , Mo. -- 
 KANSAS CITY , Mo. -- 
-KANSAS CITY , Mo. - 
-KANSAS CITY , Mo. - 
-KANSAS CITY , Mo. - 
 Processing slug... autism-flying 7.653% of the task completed
 BALTIMORE -- 
 BALTIMORE -- 
@@ -872,11 +844,6 @@ LOS GATOS , Calif. --
 LOS GATOS , Calif. -- 
 LOS GATOS , Calif. -- 
 Processing slug... bee-deaths 9.535% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... bee-virus 9.587% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -929,8 +896,7 @@ TACOMA , Wash. --
 TACOMA , Wash. -- 
 Processing slug... bergdahl-release 10.11% of the task completed
 Processing slug... berlinwall-25yearslater 10.162% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Thefalloftheberlinwall1989.JPG"Ê/> 
-KLEINMACHNOW , Germany -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Thefalloftheberlinwall1989.JPG"Ê/> KLEINMACHNOW , Germany -- 
 Processing slug... beyonce-embargo 10.214% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -950,16 +916,11 @@ BEIJING --
 BEIJING -- 
 BEIJING -- 
 Processing slug... bighorn-sheep 10.371% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> 
-FRESNO , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> 
-FRESNO , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> 
-FRESNO , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> 
-FRESNO , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> 
-FRESNO , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> FRESNO , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> FRESNO , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> FRESNO , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> FRESNO , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140428_BIGHORN_SHEEP.jpg"Ê/> FRESNO , Calif. -- 
 Processing slug... bionic-leg 10.423% of the task completed
 Processing slug... bird-flu 10.476% of the task completed
 Processing slug... bird-rollercoaster 10.528% of the task completed
@@ -1021,11 +982,6 @@ BERKELEY , Calif. --
 BERKELEY , Calif. -- 
 BERKELEY , Calif. -- 
 Processing slug... blind-speller 11.208% of the task completed
-ST. LOUIS , Mo. -- 
-ST. LOUIS , Mo. -- 
-ST. LOUIS , Mo. -- 
-ST. LOUIS , Mo. -- 
-ST. LOUIS , Mo. -- 
 Processing slug... blind-swimmer 11.26% of the task completed
 HIGHLAND PARK , Ill. -- 
 HIGHLAND PARK , Ill. -- 
@@ -1093,7 +1049,6 @@ ASHEBORO , N.C. --
 ASHEBORO , N.C. -- 
 ASHEBORO , N.C. -- 
 Processing slug... book-bike 11.835% of the task completed
-CHICAGO , Ill. - 
 Processing slug... books-minecraft 11.898% of the task completed
 NEW YORK -- 
 NEW YORK -- 
@@ -1276,8 +1231,6 @@ LOS ANGELES --
 LOS ANGELES -- 
 Processing slug... butterfly-gmos 14.25% of the task completed
 WASHINGTON -- 
-WASHINGTON - 
-WASHINGTON - 
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... ca-goldprospectors 14.302% of the task completed
@@ -1300,16 +1253,11 @@ BALTIMORE --
 BALTIMORE -- 
 BALTIMORE -- 
 Processing slug... california-drought 14.469% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> 
-LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_CALIF_DROUGHT.jpg"Ê/> LOS ANGELES -- 
 Processing slug... california-grizzlies 14.522% of the task completed
 THREE RIVERS , Calif. -- 
 THREE RIVERS , Calif. -- 
@@ -1317,16 +1265,11 @@ THREE RIVERS , Calif. --
 THREE RIVERS , Calif. -- 
 THREE RIVERS , Calif. -- 
 Processing slug... calitrain-cheaptix 14.574% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> 
-LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150526_Bullet_fare.png"Ê/> LOS ANGELES -- 
 Processing slug... calorie-labels 14.626% of the task completed
 Processing slug... cambodian-deportees 14.679% of the task completed
 PHNOM PENH , Cambodia -- 
@@ -1414,6 +1357,9 @@ NEW YORK --
 NEW YORK -- 
 NEW YORK -- 
 Processing slug... cat-apathy 15.463% of the task completed
+A recent study confirms what cat owners have long known : Our cats understand us when we talk to them -- 
+A recent study proves what cat owners have long suspected : Our cats understand us when we talk to them -- 
+A new study proves what cat owners have long suspected : Our cats understand us when we talk to them -- 
 Processing slug... cat-fossils 15.515% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -1563,11 +1509,7 @@ WASHINGTON --
 WASHINGTON -- 
 Processing slug... chimps-grunts 17.376% of the task completed
 Processing slug... china-animals 17.428% of the task completed
-BEIJING - 
 BEIJING -- 
-BEIJING - 
-BEIJING - 
-BEIJING - 
 Processing slug... china-aviation 17.48% of the task completed
 TAIYUAN , China -- 
 TAIYUAN , China -- 
@@ -1581,7 +1523,6 @@ BEIJING --
 BEIJING -- 
 BEIJING -- 
 Processing slug... china-childpolicy 17.585% of the task completed
-BEIJING - 
 BEIJING , China -- 
 BEIJING , China -- 
 BEIJING , China -- 
@@ -1665,9 +1606,6 @@ Processing slug... china-pollution 18.327% of the task completed
 BEIJING -- 
 BEIJING -- 
 BEIJING -- 
-BEIJING - 
-BEIJING - 
-BEIJING - 
 Processing slug... china-pollutionapp 18.39% of the task completed
 BEIJING -- 
 BEIJING -- 
@@ -1818,11 +1756,6 @@ DUBLIN --
 DUBLIN -- 
 DUBLIN -- 
 Processing slug... city-farm 19.906% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... city-kids 19.958% of the task completed
 SEATTLE -- 
 SEATTLE -- 
@@ -1958,10 +1891,6 @@ WASHINGTON --
 WASHINGTON -- 
 Processing slug... code-breaker 21.411% of the task completed
 Processing slug... coding-camp 21.464% of the task completed
-CHICAGO - 
-CHICAGO , Ill. - 
-CHICAGO , Ill. - 
-CHICAGO , Ill. - 
 Processing slug... coding-education 21.516% of the task completed
 CHICAGO -- 
 CHICAGO , Ill. -- 
@@ -2012,27 +1941,17 @@ RIOHACHA , Colombia --
 RIOHACHA , Colombia -- 
 RIOHACHA , Colombia -- 
 Processing slug... colombian-avocado 21.986% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> 
-EL RETIRO , Colombia -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> 
-EL RETIRO , Colombia -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> 
-EL RETIRO , Colombia -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> 
-EL RETIRO , Colombia -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> 
-EL RETIRO , Colombia -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> EL RETIRO , Colombia -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> EL RETIRO , Colombia -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> EL RETIRO , Colombia -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> EL RETIRO , Colombia -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150222_COLOMBIA_AVOCADOS_1.png"Ê/> EL RETIRO , Colombia -- 
 Processing slug... colorado-drought 22.039% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> 
-YUMA , Ariz. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> 
-YUMA , Ariz. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> 
-YUMA , Ariz. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> 
-YUMA , Ariz. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> 
-YUMA , Ariz. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> YUMA , Ariz. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> YUMA , Ariz. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> YUMA , Ariz. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> YUMA , Ariz. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/la-na-g-sej-colorado-river-basin-20150717_2.png"Ê/> YUMA , Ariz. -- 
 Processing slug... colorado-floods 22.091% of the task completed
 JEFFERSON COUNTY , Colo. -- 
 JEFFERSON COUNTY , Colo. -- 
@@ -2249,16 +2168,11 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... cuba-violins 24.663% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> 
-HAVANA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> 
-HAVANA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> 
-HAVANA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> 
-HAVANA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> 
-HAVANA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> HAVANA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> HAVANA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> HAVANA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> HAVANA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Cuba_Violins__Edit.jpg"Ê/> HAVANA -- 
 Processing slug... cuban-crocodiles 24.715% of the task completed
 Processing slug... cuban-paper 24.767% of the task completed
 MIAMI -- 
@@ -2279,8 +2193,6 @@ CHICAGO --
 CHICAGO -- 
 CHICAGO -- 
 Processing slug... cuttlefish-camouflage 24.924% of the task completed
-3-D
-3-D
 Processing slug... cvs-cigarettes 24.976% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -2308,11 +2220,6 @@ WILLISTON , N.D. --
 WILLISTON , N.D. -- 
 Processing slug... dali-vr 25.238% of the task completed
 Processing slug... dali-warhol 25.29% of the task completed
-ST. PETERSBURG , Fla. -- 
-ST. PETERSBURG , Fla. -- 
-ST. PETERSBURG , Fla. -- 
-ST. PETERSBURG , Fla. -- 
-ST. PETERSBURG , Fla. -- 
 Processing slug... dance-exercise 25.342% of the task completed
 Processing slug... dare-dictionary 25.395% of the task completed
 Processing slug... dark-matter 25.447% of the task completed
@@ -2438,12 +2345,9 @@ PHILADELPHIA --
 PHILADELPHIA -- 
 PHILADELPHIA -- 
 Processing slug... dinosaur-discovery 26.848% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> 
-CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_NEWDINOSAUR.jpg"Ê/> CHICAGO -- 
 Processing slug... dinosaur-find 26.9% of the task completed
 MANSFIELD , Texas -- 
 MANSFIELD , Texas -- 
@@ -2452,11 +2356,6 @@ MANSFIELD , Texas --
 MANSFIELD , Texas -- 
 Processing slug... dinosaur-teeth 26.952% of the task completed
 Processing slug... diplomat-spy 27.015% of the task completed
-ST. LOUIS -- 
-ST. LOUIS - 
-ST. LOUIS - 
-ST. LOUIS - 
-ST. LOUIS - 
 Processing slug... disney-airspace 27.067% of the task completed
 Processing slug... disney-costumes 27.12% of the task completed
 ORLANDO , Fla. -- 
@@ -2486,11 +2385,11 @@ SHANGHAI , China --
 SHANGHAI , China -- 
 SHANGHAI , China -- 
 Processing slug... distant-battle 27.402% of the task completed
-JOINT BASE LANGLEY-E
-JOINT BASE LANGLEY-E
-JOINT BASE LANGLEY-E
-JOINT BASE LANGLEY-E
-JOINT BASE LANGLEY-E
+JOINT BASE LANGLEY-EUSTIS , Va. -- 
+JOINT BASE LANGLEY-EUSTIS , Va. -- 
+JOINT BASE LANGLEY-EUSTIS , Va. -- 
+JOINT BASE LANGLEY-EUSTIS , Va. -- 
+JOINT BASE LANGLEY-EUSTIS , Va. -- 
 Processing slug... distracted-biking 27.454% of the task completed
 WASHINGTON -- 
 WASHINGTON , D.C. -- 
@@ -2528,16 +2427,11 @@ CHICAGO --
 CHICAGO -- 
 CHICAGO -- 
 Processing slug... doctor-shortage 27.768% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140106_DOCTORS.jpg"Ê/> WASHINGTON -- 
 Processing slug... dog-cognition 27.82% of the task completed
 HARTFORD , Conn. -- 
 HARTFORD , Conn. -- 
@@ -2920,21 +2814,13 @@ MONEY , Miss. --
 MONEY , Miss. -- 
 Processing slug... endangered-postman 32.013% of the task completed
 WASHINGTON -- 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
 WASHINGTON -- 
 Processing slug... energy-eagles 32.065% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> 
-SEATTLE -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> 
-SEATTLE -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> 
-SEATTLE -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> 
-SEATTLE -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> 
-SEATTLE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> SEATTLE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> SEATTLE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> SEATTLE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> SEATTLE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_BALDEAGLE_FL.jpg"Ê/> SEATTLE -- 
 Processing slug... energydrinks-congress 32.117% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -2952,7 +2838,6 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
-WASHINGTON - 
 Processing slug... english-spelling 32.274% of the task completed
 Processing slug... englishlanguage-lying 32.326% of the task completed
 LOS ANGELES -- 
@@ -3034,16 +2919,11 @@ LOS ANGELES --
 LOS ANGELES -- 
 Processing slug... factory-collapse 33.173% of the task completed
 Processing slug... fake-leonardo 33.215% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> 
-MILAN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> 
-MILAN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> 
-MILAN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> 
-MILAN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> 
-MILAN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> MILAN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> MILAN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> MILAN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> MILAN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Switzerland_Italy_Leo_Edit.png"Ê/> MILAN -- 
 Processing slug... falcon-farms 33.267% of the task completed
 Processing slug... family-band 33.319% of the task completed
 CHICAGO -- 
@@ -3178,11 +3058,6 @@ FERGUSON , Mo. --
 FERGUSON , Mo. -- 
 FERGUSON , Mo. -- 
 Processing slug... ferguson-museum 34.522% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... ferguson-natlguard 34.574% of the task completed
 FERGUSON , Mo. -- 
 FERGUSON , Mo. -- 
@@ -3191,11 +3066,6 @@ FERGUSON , Mo. --
 FERGUSON , Mo. -- 
 Processing slug... ferguson-oneyear 34.626% of the task completed
 Processing slug... ferguson-pompomteam 34.679% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... ferguson-report 34.731% of the task completed
 FERGUSON , Mo. -- 
 FERGUSON , Mo. -- 
@@ -3235,10 +3105,8 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... fiorinacarson-presannounce 35.149% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_ELECTIONS-CARSON_3_FL_1.png"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_ELECTIONS-CARSON_3_FL_1.png"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_ELECTIONS-CARSON_3_FL_1.png"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_ELECTIONS-CARSON_3_FL_1.png"Ê/> WASHINGTON -- 
 Processing slug... firstgen-collegestudents 35.201% of the task completed
 NORTHAMPTON , Mass. -- 
 NORTHAMPTON , Mass. -- 
@@ -3247,15 +3115,10 @@ NORTHAMPTON , Mass. --
 NORTHAMPTON , Mass. -- 
 Processing slug... firstladies-libraries 35.254% of the task completed
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> 
-CHICAGO - 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> 
-CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140918_Pres_LIBRARIES.jpg"Ê/> CHICAGO -- 
 Processing slug... firstlady-education 35.306% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -3340,7 +3203,6 @@ LOS ANGELES --
 LOS ANGELES -- 
 LOS ANGELES -- 
 Processing slug... foodborne-outbreaks 36.383% of the task completed
-WASHINGTON - 
 WASHINGTON , D.C. -- 
 WASHINGTON , D.C. -- 
 WASHINGTON , D.C. -- 
@@ -3496,16 +3358,11 @@ Processing slug... gambling-procon 38.191% of the task completed
 ### PRO : 
 ### PRO : 
 Processing slug... gaming-learning 38.244% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> 
-MILWAUKEE -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> 
-MILWAUKEE , Wis. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> 
-MILWAUKEE , Wis. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> 
-MILWAUKEE , Wis. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> 
-MILWAUKEE , Wis. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> MILWAUKEE -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> MILWAUKEE , Wis. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> MILWAUKEE , Wis. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> MILWAUKEE , Wis. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Citizen-Science-screenshot-01.png"Ê/> MILWAUKEE , Wis. -- 
 Processing slug... gargantuan-dino 38.296% of the task completed
 Processing slug... garimara-obituary 38.348% of the task completed
 Processing slug... gassavingcar-race 38.4% of the task completed
@@ -3600,14 +3457,10 @@ TROEGLITZ , Germany --
 TROEGLITZ , Germany -- 
 TROEGLITZ , Germany -- 
 Processing slug... gettysburg-retraction 39.498% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> 
-NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP119301820680.jpg"Ê/> NEW YORK -- 
 Processing slug... giant-pumpkins 39.55% of the task completed
 COMBINED LOCKS , Wis. -- 
 COMBINED LOCKS , Wis. -- 
@@ -3728,11 +3581,6 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... grades-homework 40.721% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... graffiti-park 40.774% of the task completed
 JOSHUA TREE NATIONAL PARK , Calif. -- 
 JOSHUA TREE NATIONAL PARK , Calif. -- 
@@ -3785,11 +3633,11 @@ CONAKRY , Guinea --
 CONAKRY , Guinea -- 
 Processing slug... hackable-barbie 41.296% of the task completed
 Processing slug... haiti-teacher 41.349% of the task completed
-PORT-A
-PORT-A
-PORT-A
-PORT-A
-PORT-A
+PORT-AU-PRINCE , Haiti -- 
+PORT-AU-PRINCE , Haiti -- 
+PORT-AU-PRINCE , Haiti -- 
+PORT-AU-PRINCE , Haiti -- 
+PORT-AU-PRINCE , Haiti -- 
 Processing slug... haitian-migrants 41.401% of the task completed
 OUANAMINTHE , Haiti -- 
 OUANAMINTHE , Haiti -- 
@@ -3875,17 +3723,7 @@ ORLANDO , Fla. --
 ORLANDO , Fla. -- 
 ORLANDO , Fla. -- 
 Processing slug... healthcare-amish 42.352% of the task completed
-GORDONVILLE , Pa. - 
-GORDONVILLE , Pa. - 
-GORDONVILLE , Pa. - 
-GORDONVILLE , Pa. - 
-GORDONVILLE , Pa. - 
 Processing slug... healthcare-callcenter 42.405% of the task completed
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
 Processing slug... healthcare-dogs 42.457% of the task completed
 DALLAS -- 
 DALLAS -- 
@@ -3961,27 +3799,13 @@ AUSTIN , Texas --
 AUSTIN , Texas -- 
 AUSTIN , Texas -- 
 Processing slug... hoax-paper 43.304% of the task completed
-LOS ANGELES - 
-LOS ANGELES - 
-LOS ANGELES - 
-LOS ANGELES - 
-LOS ANGELES - 
 Processing slug... hockey-lawsuit 43.356% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> 
-MINNEAPOLIS -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> 
-MINNEAPOLIS -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> 
-MINNEAPOLIS -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> 
-MINNEAPOLIS -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> 
-MINNEAPOLIS -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> MINNEAPOLIS -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> MINNEAPOLIS -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> MINNEAPOLIS -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> MINNEAPOLIS -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP597881584453_1.jpg"Ê/> MINNEAPOLIS -- 
 Processing slug... holder-letter 43.408% of the task completed
-_ 
-_ 
-_ 
-_ 
 Processing slug... holocaust-escape 43.461% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -4015,14 +3839,10 @@ ATLANTA --
 ATLANTA -- 
 ATLANTA -- 
 Processing slug... homelessrising-losangeles 43.816% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> 
-LOS ANGELES , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> 
-LOS ANGELES , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> 
-LOS ANGELES , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> LOS ANGELES , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> LOS ANGELES , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/homelessness_graphic.png"Ê/> LOS ANGELES , Calif. -- 
 Processing slug... homework-burden 43.868% of the task completed
 PITTSBURGH -- 
 PITTSBURGH -- 
@@ -4037,7 +3857,6 @@ DALLAS --
 DALLAS -- 
 DALLAS -- 
 Processing slug... horse-auction 44.025% of the task completed
-WASHINGTON - 
 WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
@@ -4085,12 +3904,9 @@ ORLANDO , Fla. --
 ORLANDO , Fla. -- 
 ORLANDO , Fla. -- 
 Processing slug... hurricane-ice 44.694% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131122_ARCTIC_HURRICANES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
 Processing slug... hurricane-patricia 44.746% of the task completed
 CHAMELA , Mexico -- 
 CHAMELA , Mexico -- 
@@ -4322,7 +4138,6 @@ BAGHDAD --
 BAGHDAD -- 
 BAGHDAD -- 
 Processing slug... iraq-braindrain 46.952% of the task completed
-BAGHDAD - 
 BAGHDAD , Iraq -- 
 BAGHDAD , Iraq -- 
 BAGHDAD , Iraq -- 
@@ -4334,16 +4149,11 @@ BAGHDAD --
 BAGHDAD -- 
 BAGHDAD -- 
 Processing slug... iraq-ramadan 47.057% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> 
-KALAK , Iraq -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> 
-KALAK , Iraq -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> 
-KALAK , Iraq -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> 
-KALAK , Iraq -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> 
-KALAK , Iraq -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> KALAK , Iraq -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> KALAK , Iraq -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> KALAK , Iraq -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> KALAK , Iraq -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140630_ISLAMICSTATE.jpg"Ê/> KALAK , Iraq -- 
 Processing slug... iraqis-usasylum 47.109% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -4387,16 +4197,11 @@ RAMLE , Israel --
 RAMLE , Israel -- 
 RAMLE , Israel -- 
 Processing slug... israeli-doctor 47.475% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> 
-SAFED , Israel -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> 
-SAFED , Israel -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> 
-SAFED , Israel -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> 
-SAFED , Israel -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> 
-SAFED , Israel -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> SAFED , Israel -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> SAFED , Israel -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> SAFED , Israel -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> SAFED , Israel -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20120910_Syria_profile.jpg"Ê/> SAFED , Israel -- 
 Processing slug... israelipalestinian-coexistence 47.527% of the task completed
 CHICAGO -- 
 CHICAGO -- 
@@ -4470,12 +4275,9 @@ TOKYO , Japan --
 TOKYO , Japan -- 
 TOKYO , Japan -- 
 Processing slug... japan-smallschools 48.155% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> 
-AONE , Japan -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> 
-AONE , Japan -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> 
-AONE , Japan -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> AONE , Japan -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> AONE , Japan -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20150419-AMX-JAPAN-SCHOOLS4191_1.png"Ê/> AONE , Japan -- 
 Processing slug... japanese-oysters 48.207% of the task completed
 OGATSU , Japan -- 
 Processing slug... japaneseball-league 48.259% of the task completed
@@ -4576,9 +4378,6 @@ JOHANNESBURG --
 Processing slug... kepler-kaput 49.514% of the task completed
 SAN JOSE , Calif. -- 
 SAN JOSE , Calif. -- 
-SAN JOSE , Calif. - 
-SAN JOSE , Calif. - 
-SAN JOSE , Calif. - 
 Processing slug... kepler-planets 49.566% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -4854,8 +4653,6 @@ Processing slug... looted-art 52.546% of the task completed
 AMSTERDAM -- 
 AMSTERDAM -- 
 AMSTERDAM -- 
-AMSTERDAM - 
-AMSTERDAM - 
 Processing slug... loudmusic-shooting 52.598% of the task completed
 JACKSONVILLE , Fla. -- 
 JACKSONVILLE , Fla. -- 
@@ -4888,22 +4685,12 @@ CHICAGO --
 CHICAGO -- 
 CHICAGO -- 
 Processing slug... madeline-75years 52.912% of the task completed
-_ 
-_ 
-_ 
-_ 
-_ 
 Processing slug... magnet-toys 52.974% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> 
-ORLANDO , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> 
-ORLANDO , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> 
-ORLANDO , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> 
-ORLANDO , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> 
-ORLANDO , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> ORLANDO , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> ORLANDO , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> ORLANDO , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> ORLANDO , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/LIFE_MAGNET-INGESTION_2_TB.jpg"Ê/> ORLANDO , Fla. -- 
 Processing slug... malala-nigeria 53.027% of the task completed
 ABUJA , Nigeria -- 
 ABUJA , Nigeria -- 
@@ -4912,9 +4699,6 @@ ABUJA , Nigeria --
 ABUJA , Nigeria -- 
 Processing slug... malala-sanjose 53.079% of the task completed
 Processing slug... malala-school 53.131% of the task completed
--L
--L
--L
 Processing slug... malala-shooters 53.173% of the task completed
 ISLAMABAD -- 
 ISLAMABAD , Pakistan -- 
@@ -4953,7 +4737,6 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... mali-attack 53.539% of the task completed
-BAMAKO , Mali - 
 BAMAKO , Mali -- 
 BAMAKO , Mali -- 
 BAMAKO , Mali -- 
@@ -5183,6 +4966,7 @@ ATLANTA --
 ATLANTA -- 
 ATLANTA -- 
 Processing slug... michelle-guns 56.309% of the task completed
+CHICAGO -- 
 Processing slug... michelleobama-lunchlegacy 56.362% of the task completed
 WASHINGTON -- 
 WASHINGTON , D.C. -- 
@@ -5338,8 +5122,7 @@ WASHINGTON , D.C. --
 WASHINGTON , D.C. -- 
 Processing slug... mindful-athlete 57.815% of the task completed
 Processing slug... minecraft-schools 57.867% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140501_MINECRAFT.png"Ê/> 
-CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140501_MINECRAFT.png"Ê/> CHICAGO -- 
 Processing slug... minority-nhlfans 57.919% of the task completed
 CHICAGO -- 
 CHICAGO -- 
@@ -5385,16 +5168,11 @@ NEW YORK --
 NEW YORK -- 
 NEW YORK -- 
 Processing slug... monarch-crisis 58.39% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> 
-ANGANGUEO , Mexico -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> 
-ANGANGUEO , Mexico -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> 
-ANGANGUEO , Mexico -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> 
-ANGANGUEO , Mexico -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> 
-ANGANGUEO , Mexico -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> ANGANGUEO , Mexico -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> ANGANGUEO , Mexico -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> ANGANGUEO , Mexico -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> ANGANGUEO , Mexico -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140331_MONARCHS.jpg"Ê/> ANGANGUEO , Mexico -- 
 Processing slug... mongolia-media 58.442% of the task completed
 KHOGNOO KHAN , Mongolia -- 
 KHOGNOO KHAN , Mongolia -- 
@@ -5443,8 +5221,6 @@ KANSAS CITY , Mo. --
 KANSAS CITY , Mo. -- 
 KANSAS CITY , Mo. -- 
 Processing slug... mountainlions-dying 59.017% of the task completed
-P-3
-P-3
 Processing slug... moveto-mars 59.07% of the task completed
 DALLAS -- 
 DALLAS -- 
@@ -5479,11 +5255,6 @@ LOS ANGELES --
 LOS ANGELES -- 
 Processing slug... mummies-age 59.435% of the task completed
 Processing slug... mummy-scans 59.488% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... mural-ban 59.54% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -5494,9 +5265,6 @@ Processing slug... museums-chinesetourists 59.592% of the task completed
 Processing slug... museums-selfies 59.645% of the task completed
 LOS ANGELES -- 
 LOS ANGELES , Calif. -- 
-LOS ANGELES , Calif. - 
-LOS ANGELES , Calif. - 
-LOS ANGELES , Calif. - 
 Processing slug... music-brain 59.697% of the task completed
 Processing slug... music-earplugs 59.749% of the task completed
 CHICAGO , Ill. -- 
@@ -5568,12 +5336,9 @@ SEATTLE , Wash. --
 Processing slug... naia-skeleton 60.387% of the task completed
 Processing slug... nail-chemicals 60.439% of the task completed
 Processing slug... nano-silver 60.491% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> 
-CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140221_SILVER.jpg"Ê/> CHICAGO -- 
 Processing slug... napa-quake 60.544% of the task completed
 NAPA , Calif. -- 
 NAPA , Calif. -- 
@@ -5816,16 +5581,11 @@ STOCKHOLM --
 STOCKHOLM -- 
 Processing slug... nobel-peace 63.136% of the task completed
 Processing slug... nobel-physics 63.189% of the task completed
-<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> 
-STOCKHOLM -- 
-<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> 
-STOCKHOLM -- 
-<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> 
-STOCKHOLM -- 
-<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> 
-STOCKHOLM -- 
-<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> 
-STOCKHOLM -- 
+<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> STOCKHOLM -- 
+<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> STOCKHOLM -- 
+<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> STOCKHOLM -- 
+<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> STOCKHOLM -- 
+<imgÊclass="pull-right"Êsrc="//newsela-test-files-f331e.s3.amazonaws.com/uploads/20131008_Higgs_boson_Nobel.jpg"Ê/> STOCKHOLM -- 
 Processing slug... nobelpeace-tunisia 63.241% of the task completed
 OSLO , Norway -- 
 OSLO , Norway -- 
@@ -5894,12 +5654,9 @@ WICOMICO RIVER , Md. --
 WICOMICO RIVER , Md. -- 
 WICOMICO RIVER , Md. -- 
 Processing slug... nutrition-labels 63.868% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140227_FOODLABELS.jpg"Ê/> WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... nvschool-uniforms 63.921% of the task completed
@@ -5915,17 +5672,12 @@ NEW YORK --
 NEW YORK -- 
 NEW YORK -- 
 Processing slug... nyfw-nepal 64.025% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> 
-NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/AP_491664101243.png"Ê/> NEW YORK -- 
 Processing slug... oarfish-mystery 64.077% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131016_OARFISH.png"Ê/> 
-LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131016_OARFISH.png"Ê/> LOS ANGELES -- 
 Processing slug... obama-WWI 64.13% of the task completed
 BRUSSELS -- 
 BRUSSELS -- 
@@ -5993,8 +5745,7 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... obama-jfk 64.705% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_JFK50YEARS_5_MCT.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_JFK50YEARS_5_MCT.jpg"Ê/> WASHINGTON -- 
 Processing slug... obama-king 64.757% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -6039,10 +5790,6 @@ WASHINGTON , D.C. --
 WASHINGTON , D.C. -- 
 Processing slug... obama-oregonshooting 65.123% of the task completed
 THE PRESIDENT : There `s been another mass shooting in America -- 
-_ 
-_ 
-_ 
-_ 
 Processing slug... obama-ovalspeech 65.175% of the task completed
 WASHINGTON -- 
 WASHINGTON , D.C. -- 
@@ -6086,11 +5833,6 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... obama-senegal 65.541% of the task completed
-DAKAR , Senegal - 
-DAKAR , Senegal - 
-DAKAR , Senegal - 
-DAKAR , Senegal - 
-DAKAR , Senegal - 
 Processing slug... obama-sotu 65.593% of the task completed
 Processing slug... obama-stem 65.635% of the task completed
 WASHINGTON -- 
@@ -6099,7 +5841,7 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... obama-syria 65.687% of the task completed
-WASHINGTON -L
+WASHINGTON -LRB- AP -RRB- -- 
 WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
@@ -6150,14 +5892,10 @@ SANTA BARBARA , Calif. --
 SANTA BARBARA , Calif. -- 
 SANTA BARBARA , Calif. -- 
 Processing slug... ocean-acidification 66.262% of the task completed
-<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> 
-HILO , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> 
-HILO , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> 
-HILO , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> 
-HILO , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> HILO , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> HILO , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> HILO , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="//s3.amazonaws.com/newsela-test-files-f331e/uploads/20130913_Coast_OCEANHEALTH.jpg"Êalt="OceanÊAcidificationÊChart"Ê/> HILO , Hawaii -- 
 Processing slug... oil-boom 66.315% of the task completed
 CASPER , Wyo. -- 
 CASPER , Wyo. -- 
@@ -6317,11 +6055,6 @@ HACKENSACK , N.J. --
 HACKENSACK , N.J. -- 
 HACKENSACK , N.J. -- 
 Processing slug... paris-attacks 68.144% of the task completed
-PARIS - 
-PARIS , France - 
-PARIS , France - 
-PARIS , France - 
-PARIS , France - 
 Processing slug... paris-climateagreement 68.197% of the task completed
 LE BOURGET , France -- 
 LE BOURGET , France -- 
@@ -6439,17 +6172,7 @@ PHILADELPHIA --
 PHILADELPHIA -- 
 PHILADELPHIA -- 
 Processing slug... phone-spying 69.514% of the task completed
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
 Processing slug... physical-literacy 69.566% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... physics-animation 69.618% of the task completed
 Processing slug... physics-monet 69.671% of the task completed
 Processing slug... physics-nobel 69.723% of the task completed
@@ -6466,16 +6189,11 @@ CHICAGO --
 CHICAGO -- 
 CHICAGO -- 
 Processing slug... picasso-hiddenman 69.88% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Art_Picasso_Hidden_Pa_Edit_1.jpg"Ê/> WASHINGTON -- 
 Processing slug... picky-eaters 69.932% of the task completed
 Processing slug... pierson-resignation 69.984% of the task completed
 WASHINGTON -- 
@@ -6509,25 +6227,16 @@ BEIJING --
 BEIJING -- 
 BEIJING -- 
 Processing slug... planecrash-frenchalps 70.298% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> 
-SEYNE-L
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> 
-SEYNE-L
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> 
-SEYNE-L
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> 
-SEYNE-L
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> SEYNE-LES-ALPES , France -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> SEYNE-LES-ALPES , France -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> SEYNE-LES-ALPES , France -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/ALPS_AVALANCHE_Edit.png"Ê/> SEYNE-LES-ALPES , France -- 
 Processing slug... plastic-ocean 70.35% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> 
-OFF THE COAST OF SAN DIEGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> 
-OFF THE COAST OF SAN DIEGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> 
-OFF THE COAST OF SAN DIEGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> 
-OFF THE COAST OF SAN DIEGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> 
-OFF THE COAST OF SAN DIEGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> OFF THE COAST OF SAN DIEGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> OFF THE COAST OF SAN DIEGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> OFF THE COAST OF SAN DIEGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> OFF THE COAST OF SAN DIEGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20091202_SM_Ocean_plastic.jpg"Ê/> OFF THE COAST OF SAN DIEGO -- 
 Processing slug... plastic-turtles 70.403% of the task completed
 Processing slug... plate-collisions 70.455% of the task completed
 LAKE BUENA VISTA , Fla. -- 
@@ -6563,14 +6272,10 @@ WASHINGTON --
 WASHINGTON -- 
 Processing slug... politics-longevity 70.768% of the task completed
 Processing slug... politics-minimumwage 70.821% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140923_MINWAGE.jpg"Ê/> WASHINGTON -- 
 Processing slug... politics-whigs 70.873% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -6674,10 +6379,8 @@ CHICAGO --
 CHICAGO -- 
 CHICAGO -- 
 Processing slug... principal-discipline 72.284% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_DISCIPLINE_4_LA.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_DISCIPLINE_4_LA.jpg"Ê/> 
-LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_DISCIPLINE_4_LA.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/US_NEWS_DISCIPLINE_4_LA.jpg"Ê/> LOS ANGELES -- 
 Processing slug... prison-dance 72.337% of the task completed
 MIAMI -- 
 MIAMI -- 
@@ -6829,11 +6532,6 @@ PORTLAND , Ore. --
 PORTLAND , Ore. -- 
 PORTLAND , Ore. -- 
 Processing slug... racerelations-ferguson 73.643% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... railroad-chineseworkers 73.696% of the task completed
 STANFORD , Calif. -- 
 STANFORD , Calif. -- 
@@ -6988,16 +6686,11 @@ LONDON --
 LONDON -- 
 Processing slug... richardiii-debate 75.159% of the task completed
 Processing slug... richest-85 75.212% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> 
-BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140120_Wealth_inequality.jpg"Ê/> BERLIN -- 
 Processing slug... rio-garbage 75.264% of the task completed
 RIO DE JANEIRO -- 
 RIO DE JANEIRO -- 
@@ -7005,16 +6698,11 @@ RIO DE JANEIRO --
 RIO DE JANEIRO -- 
 RIO DE JANEIRO -- 
 Processing slug... rip-currents 75.316% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> 
-CAROLINA BEACH , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> 
-CAROLINA BEACH , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> 
-CAROLINA BEACH , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> 
-CAROLINA BEACH , N.C. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> 
-CAROLINA BEACH , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> CAROLINA BEACH , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> CAROLINA BEACH , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> CAROLINA BEACH , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> CAROLINA BEACH , N.C. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140603_Rip_current.jpg"Ê/> CAROLINA BEACH , N.C. -- 
 Processing slug... robot-cars 75.369% of the task completed
 WASHINGTON -- 
 Processing slug... robot-wars 75.421% of the task completed
@@ -7057,16 +6745,11 @@ PYONGYANG , North Korea --
 PYONGYANG , North Korea -- 
 PYONGYANG , North Korea -- 
 Processing slug... roma-discrimination 75.839% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> 
-BERLIN -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> 
-BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> BERLIN -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131024_Roma.jpg"Ê/> BERLIN -- 
 Processing slug... rooftop-farms 75.891% of the task completed
 CHICAGO -- 
 CHICAGO , Ill. -- 
@@ -7134,11 +6817,6 @@ JOHANNESBURG , South Africa --
 JOHANNESBURG , South Africa -- 
 JOHANNESBURG , South Africa -- 
 Processing slug... ryan-housespeaker 76.466% of the task completed
-WASHINGTON - 
-WASHINGTON , D.C. - 
-WASHINGTON , D.C. - 
-WASHINGTON , D.C. - 
-WASHINGTON , D.C. - 
 Processing slug... sabbath-debate 76.519% of the task completed
 JERUSALEM -- 
 JERUSALEM -- 
@@ -7189,7 +6867,6 @@ NEW YORK --
 NEW YORK , N.Y. -- 
 NEW YORK , N.Y. -- 
 Processing slug... sandersclinton-fundraising 76.989% of the task completed
-WASHINGTON - 
 WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
@@ -7215,10 +6892,6 @@ BEIJING --
 Processing slug... satellite-movies 77.198% of the task completed
 Processing slug... saudi-drivers 77.25% of the task completed
 RIYADH -- 
-RIYADH - 
-RIYADH - 
-RIYADH - 
-RIYADH - 
 Processing slug... saudi-hajj 77.303% of the task completed
 MECCA , Saudi Arabia -- 
 MECCA , Saudi Arabia -- 
@@ -7256,6 +6929,7 @@ COLUMBUS , Ohio --
 COLUMBUS , Ohio -- 
 COLUMBUS , Ohio -- 
 Processing slug... schighschool-student 77.627% of the task completed
+A student sends a text during class , plays a video game on an iPad or mouths off -- 
 Processing slug... scholarship-app 77.679% of the task completed
 PHILADELPHIA -- 
 PHILADELPHIA -- 
@@ -7317,7 +6991,6 @@ SAN FRANCISCO --
 SAN FRANCISCO , Calif. -- 
 SAN FRANCISCO , Calif. -- 
 SAN FRANCISCO , Calif. -- 
-SAN FRANCISCO , Calif. - 
 Processing slug... schoollunch-chef 78.254% of the task completed
 Processing slug... schoollunch-fail 78.306% of the task completed
 Processing slug... schoollunch-standards 78.359% of the task completed
@@ -7546,16 +7219,11 @@ LOS ANGELES --
 LOS ANGELES -- 
 LOS ANGELES -- 
 Processing slug... sharks-hawaii 80.7% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> 
-MAKENA STATE PARK , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> 
-MAKENA STATE PARK , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> 
-MAKENA STATE PARK , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> 
-MAKENA STATE PARK , Hawaii -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> 
-MAKENA STATE PARK , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> MAKENA STATE PARK , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> MAKENA STATE PARK , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> MAKENA STATE PARK , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> MAKENA STATE PARK , Hawaii -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140117_HAWAII_SHARKS.jpg"Ê/> MAKENA STATE PARK , Hawaii -- 
 Processing slug... sharks-sanfrancisco 80.753% of the task completed
 SAN JOSE , Calif. -- 
 SAN JOSE , Calif. -- 
@@ -7839,11 +7507,6 @@ WINTER GARDEN , Fla. --
 WINTER GARDEN , Fla. -- 
 WINTER GARDEN , Fla. -- 
 Processing slug... somali-policewoman 83.638% of the task completed
-ST. PAUL , Minn. -- 
-ST. PAUL , Minn. -- 
-ST. PAUL , Minn. -- 
-ST. PAUL , Minn. -- 
-ST. PAUL , Minn. -- 
 Processing slug... songs-preserve 83.691% of the task completed
 WASHINGTON -- 
 WASHINGTON -- 
@@ -7902,14 +7565,10 @@ LOS ANGELES --
 LOS ANGELES -- 
 LOS ANGELES -- 
 Processing slug... spain-abdication 84.318% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> 
-MADRID -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> 
-MADRID -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> 
-MADRID -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> 
-MADRID -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> MADRID -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> MADRID -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> MADRID -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140602_Europe_royals.jpg"Ê/> MADRID -- 
 Processing slug... spain-jews 84.37% of the task completed
 SEATTLE -- 
 SEATTLE , Wash. -- 
@@ -7956,16 +7615,11 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... starfish-disease 84.893% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> 
-ANCHORAGE , Alaska -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> 
-ANCHORAGE , Alaska -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> 
-ANCHORAGE , Alaska -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> 
-ANCHORAGE , Alaska -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> 
-ANCHORAGE , Alaska -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> ANCHORAGE , Alaska -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> ANCHORAGE , Alaska -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> ANCHORAGE , Alaska -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> ANCHORAGE , Alaska -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140205_STARFISH.jpg"Ê/> ANCHORAGE , Alaska -- 
 Processing slug... starving-kids 84.945% of the task completed
 KANSAS CITY -- 
 KANSAS CITY -- 
@@ -8010,16 +7664,11 @@ ROCHESTER , Minn. --
 ROCHESTER , Minn. -- 
 Processing slug... stemcells-sports 85.311% of the task completed
 Processing slug... stinkbugs-crops 85.363% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> 
-COLLEGE PARK , Md. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> 
-COLLEGE PARK , Md. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> 
-COLLEGE PARK , Md. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> 
-COLLEGE PARK , Md. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> 
-COLLEGE PARK , Md. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> COLLEGE PARK , Md. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> COLLEGE PARK , Md. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> COLLEGE PARK , Md. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> COLLEGE PARK , Md. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_Stink_parasitoid.jpg"Ê/> COLLEGE PARK , Md. -- 
 Processing slug... stolen-violin 85.416% of the task completed
 MILWAUKEE -- 
 MILWAUKEE -- 
@@ -8081,7 +7730,6 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 WASHINGTON -- 
-WASHINGTON - 
 Processing slug... sumo-kids 86.043% of the task completed
 TOKYO -- 
 TOKYO , Japan -- 
@@ -8151,17 +7799,13 @@ STOCKHOLM --
 STOCKHOLM -- 
 Processing slug... swim-pollutedwater 86.67% of the task completed
 Processing slug... swimming-dinosaur 86.722% of the task completed
+A strange dinosaur fossil dug up in the desert of Morocco and whose parts were flung across two continents has finally been reunited -- 
 Processing slug... syria-aleppo 86.775% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> 
-ALEPPO , Syria -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> 
-ALEPPO , Syria -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> 
-ALEPPO , Syria -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> 
-ALEPPO , Syria -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> 
-ALEPPO , Syria -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> ALEPPO , Syria -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> ALEPPO , Syria -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> ALEPPO , Syria -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> ALEPPO , Syria -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130613_SYRIA_deaths_1.jpg"Ê/> ALEPPO , Syria -- 
 Processing slug... syria-chicago 86.827% of the task completed
 CHICAGO , Ill. -- 
 CHICAGO , Ill. -- 
@@ -8193,11 +7837,6 @@ BEIRUT --
 BEIRUT -- 
 BEIRUT -- 
 Processing slug... syria-obama 87.088% of the task completed
-ST. PETERSBURG , Russia -- 
-ST. PETERSBURG , Russia -- 
-ST. PETERSBURG , Russia -- 
-ST. PETERSBURG , Russia -- 
-ST. PETERSBURG , Russia -- 
 Processing slug... syria-putin 87.141% of the task completed
 Processing slug... syria-redline 87.193% of the task completed
 Processing slug... syria-refugees 87.235% of the task completed
@@ -8232,9 +7871,6 @@ BEIRUT , Lebanon --
 BEIRUT , Lebanon -- 
 Processing slug... syrian-brides 87.496% of the task completed
 CAIRO -- 
-CAIRO - 
-CAIRO - 
-CAIRO - 
 CAIRO -- 
 Processing slug... syrian-swimmers 87.548% of the task completed
 BERLIN -- 
@@ -8258,16 +7894,11 @@ LUKANG , Taiwan --
 LUKANG , Taiwan -- 
 LUKANG , Taiwan -- 
 Processing slug... tallest-building 87.862% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> 
-NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131112_TALLEST_SKYSCRAPER.jpg"Ê/> NEW YORK -- 
 Processing slug... tanningbeds-ban 87.914% of the task completed
 WASHINGTON -- 
 WASHINGTON , D.C. -- 
@@ -8281,14 +7912,10 @@ WASHINGTON , D.C. --
 WASHINGTON , D.C. -- 
 WASHINGTON , D.C. -- 
 Processing slug... tatar-history 88.019% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> 
-SIMFEROPOL , Ukraine -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> 
-SIMFEROPOL , Ukraine -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> 
-SIMFEROPOL , Ukraine -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> 
-SIMFEROPOL , Ukraine -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> SIMFEROPOL , Ukraine -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> SIMFEROPOL , Ukraine -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> SIMFEROPOL , Ukraine -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140225_UKRAINE_Crimea.jpg"Ê/> SIMFEROPOL , Ukraine -- 
 Processing slug... teacher-shakespeare 88.071% of the task completed
 SACRAMENTO , Calif. -- 
 SACRAMENTO , Calif. -- 
@@ -8311,8 +7938,7 @@ Processing slug... technology-fashion 88.228% of the task completed
 Processing slug... teen-clothiers 88.28% of the task completed
 Processing slug... teen-employment 88.332% of the task completed
 Processing slug... teen-jobs 88.385% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141211_TEENAGERS_CRIME.png"Ê/> 
-PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141211_TEENAGERS_CRIME.png"Ê/> PHILADELPHIA -- 
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141211_TEENAGERS_CRIME.png"Ê/> 
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141211_TEENAGERS_CRIME.png"Ê/> 
 <imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141211_TEENAGERS_CRIME.png"Ê/> 
@@ -8388,16 +8014,11 @@ DETROIT , Mich. --
 Processing slug... tesla-safety 89.221% of the task completed
 Processing slug... testtube-meat 89.273% of the task completed
 Processing slug... texas-ebola 89.326% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> 
-EULESS , Texas -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> 
-EULESS , Texas -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> 
-EULESS , Texas -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> 
-EULESS , Texas -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> 
-EULESS , Texas -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> EULESS , Texas -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> EULESS , Texas -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> EULESS , Texas -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> EULESS , Texas -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20141002_Ebola_updates.jpg"Ê/> EULESS , Texas -- 
 Processing slug... texas-immigrants 89.378% of the task completed
 HOUSTON , Texas -- 
 HOUSTON , Texas -- 
@@ -8427,7 +8048,7 @@ PHUKET , Thailand --
 PHUKET , Thailand -- 
 PHUKET , Thailand -- 
 Processing slug... thanksgiving-hannukah 89.796% of the task completed
-NEW YORK -L
+NEW YORK -LRB- AP -RRB- -- 
 NEW YORK -- 
 NEW YORK -- 
 NEW YORK -- 
@@ -8467,16 +8088,11 @@ WASHINGTON --
 WASHINGTON -- 
 WASHINGTON -- 
 Processing slug... time-popefrancis 90.246% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> 
-NEW YORK -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> 
-NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> NEW YORK -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/Time_Person_Of_The_Ye_Edit.jpg"Ê/> NEW YORK -- 
 Processing slug... timetravel-paradox 90.298% of the task completed
 Processing slug... tobacco-picking 90.35% of the task completed
 RICHMOND , Va. -- 
@@ -8493,11 +8109,6 @@ IMMOKALEE , Fla. --
 Processing slug... tooth-enamel 90.455% of the task completed
 Processing slug... tornado-drone 90.507% of the task completed
 Processing slug... tornado-saferooms 90.57% of the task completed
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
-ST. LOUIS -- 
 Processing slug... tornado-warnings 90.622% of the task completed
 WASHINGTON , Ill. -- 
 WASHINGTON , Ill. -- 
@@ -8593,10 +8204,6 @@ JOHANNESBURG , South Africa --
 Processing slug... tropical-dinosaurs 91.511% of the task completed
 Processing slug... trout-comeback 91.563% of the task completed
 PYRAMID LAKE , Nev. -- 
-PYRAMID LAKE , Nev. - 
-PYRAMID LAKE , Nev. - 
-PYRAMID LAKE , Nev. - 
-PYRAMID LAKE , Nev. - 
 Processing slug... truck-prices 91.615% of the task completed
 DETROIT -- 
 DETROIT -- 
@@ -8751,7 +8358,6 @@ CHICAGO , Ill. --
 CHICAGO , Ill. -- 
 CHICAGO , Ill. -- 
 CHICAGO , Ill. -- 
-CHICAGO , Ill. - 
 Processing slug... urban-squash 93.246% of the task completed
 PHILADELPHIA -- 
 PHILADELPHIA -- 
@@ -8777,10 +8383,8 @@ ACACIAS , Colombia --
 ACACIAS , Colombia -- 
 ACACIAS , Colombia -- 
 Processing slug... usa-population 93.455% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131230_CENSUS_maps.jpg"Ê/> 
-WASHINGTON -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131230_CENSUS_maps.jpg"Ê/> 
-WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131230_CENSUS_maps.jpg"Ê/> WASHINGTON -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131230_CENSUS_maps.jpg"Ê/> WASHINGTON -- 
 Processing slug... usc-blindfan 93.508% of the task completed
 Processing slug... uschina-ivoryban 93.56% of the task completed
 BEIJING -- 
@@ -8825,11 +8429,11 @@ SEATTLE --
 SEATTLE -- 
 SEATTLE -- 
 Processing slug... vangogh-painting 93.978% of the task completed
-AMSTERDAM -L
-AMSTERDAM -L
-AMSTERDAM -L
-AMSTERDAM -L
-AMSTERDAM -L
+AMSTERDAM -LRB- AP -RRB- -- 
+AMSTERDAM -LRB- AP -RRB- -- 
+AMSTERDAM -LRB- AP -RRB- -- 
+AMSTERDAM -LRB- AP -RRB- -- 
+AMSTERDAM -LRB- AP -RRB- -- 
 Processing slug... veggieprices-rising 94.03% of the task completed
 SANTA MONICA , Calif. -- 
 SANTA MONICA , Calif. -- 
@@ -8893,16 +8497,11 @@ MINNEAPOLIS --
 MINNEAPOLIS -- 
 MINNEAPOLIS -- 
 Processing slug... vintage-baseball 94.658% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> 
-PHILADELPHIA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> 
-PHILADELPHIA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> 
-PHILADELPHIA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> 
-PHILADELPHIA -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> 
-PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> PHILADELPHIA -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/APTOPIX_Vintage_Baseb_Edit_1.jpg"Ê/> PHILADELPHIA -- 
 Processing slug... vintage-cars 94.71% of the task completed
 HERSHEY , Pa. -- 
 HERSHEY , Pa. -- 
@@ -8954,11 +8553,6 @@ HOPE MILLS , N.C. --
 HOPE MILLS , N.C. -- 
 HOPE MILLS , N.C. -- 
 Processing slug... voting-lawsuit 95.222% of the task completed
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
-WASHINGTON - 
 Processing slug... vr-boom 95.274% of the task completed
 SAN JOSE , Calif. -- 
 SAN JOSE , Calif. -- 
@@ -9020,16 +8614,11 @@ ALLENTOWN , Pa. --
 ALLENTOWN , Pa. -- 
 ALLENTOWN , Pa. -- 
 Processing slug... warhol-disks 95.808% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> 
-PITTSBURGH -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> 
-PITTSBURGH -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> 
-PITTSBURGH -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> 
-PITTSBURGH -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> 
-PITTSBURGH -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> PITTSBURGH -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> PITTSBURGH -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> PITTSBURGH -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> PITTSBURGH -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/venus.jpg"ÊÊ/> PITTSBURGH -- 
 Processing slug... warmest-year 95.86% of the task completed
 Processing slug... warmweather-olympians 95.912% of the task completed
 SOCHI , Russia -- 
@@ -9044,14 +8633,10 @@ Processing slug... wars-procon 95.964% of the task completed
 ### PRO : 
 ### PRO : 
 Processing slug... warthog-plane 96.017% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> 
-LOS ANGELES -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> 
-LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> LOS ANGELES -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131121_WARTHOG.jpg"Ê/> LOS ANGELES -- 
 Processing slug... washington-drought 96.069% of the task completed
 SEATTLE -- 
 SEATTLE , Wash. -- 
@@ -9085,6 +8670,7 @@ MADERA COUNTY , Calif. --
 MADERA COUNTY , Calif. -- 
 MADERA COUNTY , Calif. -- 
 Processing slug... waterless-farming 96.435% of the task completed
+A centuries-old farming technique called dry farming -- 
 Processing slug... waterrights-fresno 96.487% of the task completed
 FRESNO , Calif. -- 
 FRESNO , Calif. -- 
@@ -9122,28 +8708,18 @@ WASHINGTON --
 WASHINGTON -- 
 Processing slug... whale-ancient 96.801% of the task completed
 Processing slug... whale-beachings 96.853% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> 
-FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20131205_BEACHEDWHALES.jpg"Ê/> FORT LAUDERDALE , Fla. -- 
 Processing slug... whale-earwax 96.905% of the task completed
 Processing slug... whale-freed 96.958% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> 
-SAN JOSE , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> 
-SAN JOSE , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> 
-SAN JOSE , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> 
-SAN JOSE , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> 
-SAN JOSE , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> SAN JOSE , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> SAN JOSE , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> SAN JOSE , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> SAN JOSE , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140526_HUMPBACK_FREED_1.jpg"Ê/> SAN JOSE , Calif. -- 
 Processing slug... whales-entangled 97.01% of the task completed
 LOS ANGELES -- 
 LOS ANGELES -- 
@@ -9201,14 +8777,10 @@ KUALA LUMPUR , Malaysia --
 KUALA LUMPUR , Malaysia -- 
 KUALA LUMPUR , Malaysia -- 
 Processing slug... wolf-fight 97.585% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> 
-ALBUQUERQUE , N.M. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> 
-ALBUQUERQUE , N.M. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> 
-ALBUQUERQUE , N.M. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> 
-ALBUQUERQUE , N.M. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> ALBUQUERQUE , N.M. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> ALBUQUERQUE , N.M. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> ALBUQUERQUE , N.M. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20130426_WOLVES.jpg"Ê/> ALBUQUERQUE , N.M. -- 
 Processing slug... wolf-hunt 97.637% of the task completed
 IRONWOOD , Mich. -- 
 IRONWOOD , Mich. -- 
@@ -9243,12 +8815,9 @@ KRASNAYA POLYANA , Russia --
 KRASNAYA POLYANA , Russia -- 
 KRASNAYA POLYANA , Russia -- 
 Processing slug... wooden-rollercoaster 98.014% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> 
-CHICAGO -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> 
-CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> CHICAGO -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/20140506_ROLLERCOASTER.jpg"Ê/> CHICAGO -- 
 Processing slug... woodrat-colony 98.066% of the task completed
 HACKENSACK , N.J. -- 
 HACKENSACK , N.J. -- 
@@ -9307,16 +8876,11 @@ YOSEMITE NATIONAL PARK , Calif. --
 YOSEMITE NATIONAL PARK , Calif. -- 
 YOSEMITE NATIONAL PARK , Calif. -- 
 Processing slug... yosemite-climbers 99.007% of the task completed
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> 
-YOSEMITE NATIONAL PARK , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> 
-YOSEMITE NATIONAL PARK , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> 
-YOSEMITE NATIONAL PARK , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> 
-YOSEMITE NATIONAL PARK , Calif. -- 
-<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> 
-YOSEMITE NATIONAL PARK , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> YOSEMITE NATIONAL PARK , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> YOSEMITE NATIONAL PARK , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> YOSEMITE NATIONAL PARK , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> YOSEMITE NATIONAL PARK , Calif. -- 
+<imgÊclass="pull-right"Êsrc="https://newsela-test-files-f331e.s3.amazonaws.com/article_media/extra/SPORTS_OTD-DAWNWALL-ELCAP_1_SJ.png"Ê/> YOSEMITE NATIONAL PARK , Calif. -- 
 Processing slug... yosemite-fire 99.059% of the task completed
 SAN JOSE , Calif. -- 
 SAN JOSE , Calif. -- 
