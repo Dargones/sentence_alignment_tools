@@ -1023,4 +1023,5 @@ if __name__ == "__main__":
           "africa-lions"])"""
     # align_first_n()
     # align_particular(["boston-timecapsule", "aztec-discovery", "fed-dollars", "africa-lions",  "haitian-migrants"])
-    align_particular(["cavemen-recycling"],[(0,3,2)])
+    # align_particular(["cat-apathy"],[(0,3,2)])
+    align_first_n()

@@ -8,19 +8,40 @@ from newselautil import *
 import classpaths as path
 import numpy
 
+
 class Alignment(object):
+
     """ a class that represents an alignment """
-    def __init__(self, s0, s1, s0part, s1part):
+
+    def __init__(self, sent0, ind0, p_ind0, s_ind0, part0,
+                 sent1, ind1, p_ind1, s_ind1, part1):
         """
-        :param s0: the sentence from the first articles
-        :param s1: the sentence from the second article
-        :param s0part: the part of the first sentence aligned (parts are separated by semicolons)
-        :param s1part: the part of the second sentence aligned
+        All indexes are zero-based.
+        :param sent0: the sentence from the first articles
+        :param ind0: the absolute index of this sentence in the file
+        :param p_ind0: the index of the paragraph this sentence appears in
+        :param s_ind0: the index of this sentence relative to the beginning of
+        the paragraph. getTokParagraphs(...)[...][p_ind0][s_ind0] will return
+        sent0
+        :param part0: the part of the sentence that was aligned.
+        Parts are separated by semicolons, i.e. sent0.split(';')[part0] is what
+        was actually aligned by the algorithm
+        :param sent1: same for the second article
+        :param ind1:
+        :param p_ind1:
+        :param s_ind1:
+        :param part1:
         """
-        self.s0 = s0
-        self.s1 = s1
-        self.s0part = s0part
-        self.s1part = s1part
+        self.sent0 = sent0
+        self.sent1 = sent1
+        self.part0 = part0
+        self.part1 = part1
+        self.ind0 = ind0
+        self.ind1 = ind1
+        self.s_ind0 = s_ind0
+        self.s_ind1 = s_ind1
+        self.p_ind0 = p_ind0
+        self.p_ind1 = p_ind1
 
 
 def get_lowest_element_with_slug(slug, metafile):
@@ -63,16 +84,15 @@ def replace(threeDimArray, old, new):
                     oneDim[i] == new
 
 
-def get_aligned_sentences(metafile, slug, level1, level2, paragraphWise = False, auto=True):
+def get_aligned_sentences(metafile, slug, level1, level2, auto=True):
     """
-    Returns the list of blocks of Alignments. A block of alignment is a set of aignments that share sentences, i.e.
-    all of the 1-N or N-N alignments are in the same block and every 1-1 alignment is a block with one element. Hence,
-    the returned structure is a list of lists of Alignments.
-    :param metafile:        the metafile loaded with newselautils.loadMetafile
+    Returns the list of Alignment objects.
+    :param metafile:        the metafile loaded with newselautils.loadMetafile()
     :param slug:            the slug of the aligned articles
     :param level1:          the lower level of the alignment
     :param level2:          the upper level of the alignment
-    :param auto:            true if alignments made by algorithm are to be loaded, false otherwise
+    :param auto:            true if alignments made by the algorithm are to be
+                            loaded, false otherwise (for manual alignemnets)
     :return:
     """
     if level1 >= level2:
@@ -86,10 +106,15 @@ def get_aligned_sentences(metafile, slug, level1, level2, paragraphWise = False,
     result = []
 
     for article in allParagraphs:
-        for paragraph in article:
-            paragraph[0] = (paragraph[0], 0)
+        for j in range(len(article)):
+            paragraph = article[j]
+            if j == 0:
+                paragraph[0] = (paragraph[0], 0, 0)
+            else:
+                paragraph[0] = (paragraph[0], 0, article[j-1][-1][2] + 1)
             for i in range(len(paragraph)-1):
-                paragraph[i+1] = (paragraph[i+1], paragraph[i][1] + len(paragraph[i][0].split(";")))
+                paragraph[i+1] = (paragraph[i+1], paragraph[i][1] + len(paragraph[i][0].split(";")),
+                                  paragraph[i][2] + 1)
 
     sentCount = ([], [])
     for i in range(len(allParagraphs)):
@@ -138,8 +163,12 @@ def get_aligned_sentences(metafile, slug, level1, level2, paragraphWise = False,
                     result[sentCount[1][second[0]][second[1]]] = None
                     replace(sentCount, sentCount[1][second[0]][second[1]], blockId)
 
-                current.append(Alignment(allParagraphs[0][first[0]][first[1]][0],
-                                allParagraphs[1][second[0]][second[1]][0], first[2], second[2]))
+                ind0 = allParagraphs[0][first[0]][first[1]][2]
+                ind1 = allParagraphs[1][second[0]][second[1]][2]
+                sent0 = allParagraphs[0][first[0]][first[1]][0]
+                sent1 = allParagraphs[1][second[0]][second[1]][0]
+                current.append(Alignment(sent0, ind0, first[0], first[1], first[2],
+                                         sent1, ind1, second[0], second[1], second[2]))
             if blockId == len(result):
                 result.append(current)
             else:
@@ -151,7 +180,12 @@ def get_aligned_sentences(metafile, slug, level1, level2, paragraphWise = False,
                 del result[i]
             else:
                 i += 1
-    return result
+    # result accounts for N-1, N-N and 1-N alignments. new_result does not
+    new_result = []
+    for x in result:
+        new_result += x
+    return new_result
+
 
 def convert_coordinates(old,pars):
     """
@@ -170,26 +204,15 @@ def convert_coordinates(old,pars):
 
 
 if __name__ == "__main__":
-    # debugging
+    """Example use of get_aligned_sentences"""
     metafile = loadMetafile()
-    sentpairs = get_aligned_sentences(metafile, "cavemen-recycling", 0, 3)
-    for block in sentpairs:
-        for alignment in block:
-            if alignment.s0 != alignment.s1:
-                print("FIRST-SENTENCE: " + alignment.s0)
-                print("SECOND-SENTENCE: " + alignment.s1)
-        print("\n")
-    """i = 0
-    nSlugs = 0
-    while (nSlugs < 300):
-        artLow = i  # first article with this slug
-        slug = metafile[i]['slug']
-        nSlugs += 1
-        while i < len(metafile) and slug == metafile[i]['slug']:
-            i += 1
-        artHi = i-1
-        print ("processing slug: "+ slug)
-        while artLow<artHi:
-            print(str(artHi-artLow-1)+" "+str(artHi-artLow))
-            sentpairs = get_aligned_sentences(metafile, slug, artHi-artLow-1, artHi-artLow)
-            artLow +=1"""
+    sentpairs = get_aligned_sentences(metafile, "10dollarbill-woman", 0, 2)
+    for alignment in sentpairs:
+        if alignment.sent0 != alignment.sent1:
+            print("FIRST-SENTENCE:" + str(alignment.ind0) + ':' + str(
+                alignment.p_ind0) + ':' + str(alignment.s_ind0) + ':' + str(
+                alignment.part0) + ' ' + alignment.sent0)
+            print("SECOND-SENTENCE:" + str(alignment.ind1) + ':' + str(
+                alignment.p_ind1) + ':' + str(alignment.s_ind1) + ':' + str(
+                alignment.part1) + ' ' + alignment.sent1)
+            print("\n")

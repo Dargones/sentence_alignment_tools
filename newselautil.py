@@ -63,8 +63,13 @@ def cleanSentences(slist):
 # has happened. These "location tags" should not affect alignment and should
 # be removed. Here are some abbreviations with which some lines begin but
 # which should not be removed.
-CAPITALIZED_WORDS = ['A' 'FBI', 'FDA', 'NASA', 'DNA', 'TV', 'UFO']
-OTHER_HEADERS = '(SEATTLE - )'
+CAPITALIZED_WORDS = ['A', 'FBI', 'FDA', 'NASA', 'DNA', 'TV', 'UFO']
+OTHER_HEADERS = '(SEATTLE - |NEW YORK - |WASHINGTON - |BEIJING - |CHICAGO - |' \
+                'GORDONVILLE , Pa. - |LOS ANGELES - |BAGHDAD - |' \
+                'SAN JOSE , Calif. - |AMSTERDAM - |BAMAKO , Mali - |' \
+                'DAKAR , Senegal - |PARIS - |PARIS , France - ' \
+                'WASHINGTON , D.C. - |RIYADH - |SAN FRANCISCO , Calif. - |' \
+                'CAIRO - |CHICAGO , Ill. - )'
 # these are headers that are different to detect otherwise
 
 
@@ -74,16 +79,12 @@ def modify_the_header(line):
     :param line: the line to modify
     :return: the modified line
     """
-    length = len(line)
-    oldline = line
     line = re.sub('### PRO : ', '', line)
     line = re.sub('<.*> ', '', line)
     line = re.sub('### PRO : ', '', line)
     if line.split(' ')[0] not in CAPITALIZED_WORDS:
-        line = re.sub('^[A-Z][A-Z\-]* .*?-- ', '', line)
+        line = re.sub('^[A-Z][A-Z\-.]* .*?-- ', '', line)
         line = re.sub('^' + OTHER_HEADERS, '', line)
-    if length != len(line):
-        print(oldline[:length-len(line)])
     # firstWord == "!\n":  # a header with an image
     # TODO
     return line
